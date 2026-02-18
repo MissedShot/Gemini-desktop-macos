@@ -1,4 +1,8 @@
-# GeminiChatMac
+# Gemini desktop PoC
+
+## Screeenshot
+<img width="2964" height="2004" alt="image" src="https://github.com/user-attachments/assets/53caee86-2fb0-498b-9113-7b5d4b036a44" />
+
 
 macOS chat app on SwiftUI for Xcode with Gemini API key support.
 
